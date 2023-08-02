@@ -1,0 +1,686 @@
+.noile-sosete-confort-plus-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.noile-sosete-confort-plus-hero {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-space-space-tripleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-fourunits);
+  justify-content: center;
+}
+.noile-sosete-confort-plus-hero1 {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  max-width: 1400px;
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.noile-sosete-confort-plus-container01 {
+  display: flex;
+  margin-right: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+}
+.noile-sosete-confort-plus-text {
+  color: rgb(112, 112, 112);
+  font-size: 3rem;
+  max-width: 600px;
+  line-height: 1.2;
+  border-color: var(--dl-color-gray-900);
+  border-style: hidden;
+  border-width: 0px;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.noile-sosete-confort-plus-text01 {
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-text04 {
+  color: var(--dl-color-gray-black);
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 800;
+}
+.noile-sosete-confort-plus-text06 {
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-container02 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-container03 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 0px;
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image {
+  width: 350px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-container04 {
+  height: autoâ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image1 {
+  width: 500px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-descriere {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: center;
+  padding-top: var(--dl-space-space-fourunits);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+}
+.noile-sosete-confort-plus-hero2 {
+  width: 100%;
+  display: flex;
+  padding: 32px;
+  max-width: 1400px;
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.noile-sosete-confort-plus-container05 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image2 {
+  width: 500px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-container06 {
+  width: 550px;
+  display: flex;
+  margin-left: var(--dl-space-space-tenunits);
+  margin-right: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+}
+.noile-sosete-confort-plus-text07 {
+  font-size: 32px;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.noile-sosete-confort-plus-text09 {
+  font-style: normal;
+  font-weight: 800;
+}
+.noile-sosete-confort-plus-text11 {
+  color: rgb(112, 112, 112);
+  margin-top: 32px;
+  margin-bottom: 32px;
+  padding-right: 48px;
+}
+.noile-sosete-confort-plus-text12 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text13 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.noile-sosete-confort-plus-text14 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text15 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text16 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text17 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text18 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text19 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.noile-sosete-confort-plus-text20 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text21 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text22 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text23 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text24 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-text25 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.noile-sosete-confort-plus-text26 {
+  font-size: 22px;
+}
+.noile-sosete-confort-plus-beneficii {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  margin-top: var(--dl-space-space-fiveunits);
+  align-items: center;
+  padding-top: var(--dl-space-space-tenunits);
+  padding-left: var(--dl-space-space-tripleunit);
+  margin-bottom: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+}
+.noile-sosete-confort-plus-heading-container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+}
+.noile-sosete-confort-plus-text29 {
+  width: 625px;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text30 {
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-text32 {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+}
+.noile-sosete-confort-plus-cards-container {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-fourunits);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.noile-sosete-confort-plus-service-card {
+  width: 30%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.35);
+}
+.noile-sosete-confort-plus-text33 {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text34 {
+  color: var(--dl-color-gray-700);
+  text-align: left;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-container07 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image3 {
+  width: 340px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-service-card1 {
+  width: 30%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.35);
+}
+.noile-sosete-confort-plus-text35 {
+  color: var(--dl-color-gray-black);
+  text-align: left;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text36 {
+  color: var(--dl-color-gray-700);
+  text-align: left;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-container08 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image4 {
+  width: 340px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-service-card2 {
+  width: 30%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.35);
+}
+.noile-sosete-confort-plus-text39 {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text40 {
+  color: var(--dl-color-gray-700);
+  text-align: left;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-container09 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image5 {
+  width: 340px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-heading-container1 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+}
+.noile-sosete-confort-plus-text43 {
+  width: 667px;
+  margin-top: var(--dl-space-space-fourunits);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text44 {
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-text46 {
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-text47 {
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-section-separator {
+  width: 100%;
+  height: 1px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-900);
+}
+.noile-sosete-confort-plus-color-options {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  margin-top: var(--dl-space-space-fiveunits);
+  align-items: center;
+  padding-top: var(--dl-space-space-tenunits);
+  padding-left: var(--dl-space-space-tripleunit);
+  margin-bottom: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+}
+.noile-sosete-confort-plus-heading-container2 {
+  width: auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+}
+.noile-sosete-confort-plus-text48 {
+  width: auto;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text51 {
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-cards-container1 {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-fourunits);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.noile-sosete-confort-plus-color-card {
+  width: 30%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-container10 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image6 {
+  width: 340px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-text53 {
+  align-self: center;
+  text-align: center;
+}
+.noile-sosete-confort-plus-color-card1 {
+  width: 30%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-container11 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image7 {
+  width: 340px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-text54 {
+  color: var(--dl-color-gray-black);
+  align-self: center;
+  text-align: left;
+}
+.noile-sosete-confort-plus-color-card2 {
+  width: 30%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-container12 {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+  background-size: cover;
+  justify-content: center;
+}
+.noile-sosete-confort-plus-image8 {
+  width: 340px;
+  object-fit: cover;
+}
+.noile-sosete-confort-plus-text55 {
+  align-self: center;
+  text-align: center;
+}
+.noile-sosete-confort-plus-section-separator1 {
+  width: 100%;
+  height: 1px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-900);
+}
+.noile-sosete-confort-plus-final-cta {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  margin-top: var(--dl-space-space-fiveunits);
+  align-items: center;
+  padding-top: var(--dl-space-space-fiveunits);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  justify-content: flex-start;
+}
+.noile-sosete-confort-plus-text58 {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.noile-sosete-confort-plus-text59 {
+  font-style: normal;
+  font-weight: 500;
+}
+.noile-sosete-confort-plus-text63 {
+  font-style: normal;
+  font-weight: 500;
+}
+@media(max-width: 991px) {
+  .noile-sosete-confort-plus-hero {
+    flex-direction: column-reverse;
+  }
+  .noile-sosete-confort-plus-hero1 {
+    flex-direction: column;
+  }
+  .noile-sosete-confort-plus-container01 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fiveunits);
+    padding-right: 0px;
+    background-color: var(--dl-color-gray-white);
+  }
+  .noile-sosete-confort-plus-text {
+    text-align: center;
+  }
+  .noile-sosete-confort-plus-container02 {
+    align-self: center;
+  }
+  .noile-sosete-confort-plus-hero2 {
+    padding: 48px;
+    flex-direction: column;
+  }
+  .noile-sosete-confort-plus-container05 {
+    order: 2;
+  }
+  .noile-sosete-confort-plus-container06 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
+  .noile-sosete-confort-plus-text07 {
+    text-align: center;
+  }
+  .noile-sosete-confort-plus-text11 {
+    align-self: center;
+    text-align: left;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .noile-sosete-confort-plus-text29 {
+    width: 624px;
+  }
+  .noile-sosete-confort-plus-text43 {
+    width: 624px;
+  }
+  .noile-sosete-confort-plus-text48 {
+    width: 624px;
+  }
+}
+@media(max-width: 767px) {
+  .noile-sosete-confort-plus-hero1 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .noile-sosete-confort-plus-container04 {
+    width: 80%;
+  }
+  .noile-sosete-confort-plus-hero2 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .noile-sosete-confort-plus-container05 {
+    width: 80%;
+  }
+  .noile-sosete-confort-plus-heading-container {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-cards-container {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .noile-sosete-confort-plus-service-card {
+    width: 65%;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
+  .noile-sosete-confort-plus-service-card1 {
+    width: 65%;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
+  .noile-sosete-confort-plus-service-card2 {
+    width: 65%;
+  }
+  .noile-sosete-confort-plus-heading-container1 {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-heading-container2 {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-cards-container1 {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .noile-sosete-confort-plus-color-card {
+    width: 65%;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
+  .noile-sosete-confort-plus-color-card1 {
+    width: 65%;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
+  .noile-sosete-confort-plus-color-card2 {
+    width: 65%;
+  }
+}
+@media(max-width: 479px) {
+  .noile-sosete-confort-plus-hero {
+    padding-top: var(--dl-space-space-fourunits);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .noile-sosete-confort-plus-hero1 {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .noile-sosete-confort-plus-container01 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .noile-sosete-confort-plus-descriere {
+    padding-top: var(--dl-space-space-fiveunits);
+    padding-bottom: var(--dl-space-space-fiveunits);
+  }
+  .noile-sosete-confort-plus-hero2 {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .noile-sosete-confort-plus-container06 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .noile-sosete-confort-plus-text11 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .noile-sosete-confort-plus-beneficii {
+    padding-top: var(--dl-space-space-fiveunits);
+    padding-bottom: var(--dl-space-space-fiveunits);
+  }
+  .noile-sosete-confort-plus-service-card {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-service-card1 {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-service-card2 {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-color-options {
+    padding-top: var(--dl-space-space-fiveunits);
+    padding-bottom: var(--dl-space-space-fiveunits);
+  }
+  .noile-sosete-confort-plus-color-card {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-color-card1 {
+    width: 100%;
+  }
+  .noile-sosete-confort-plus-color-card2 {
+    width: 100%;
+  }
+}
